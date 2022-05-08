@@ -1,0 +1,9 @@
+# PKGBUILD src directory
+src
+
+# PKGBUILD pkg directory
+pkg
+
+# All extracted files
+*.deb
+data.tar.gz
